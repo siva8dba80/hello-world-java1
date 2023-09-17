@@ -36,6 +36,6 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Jai Sai Ram");
     System.out.println("Hello, World");
-    System.out.println("Poll SCM Example"
+    System.out.println("Poll SCM Example");
   }
 }
